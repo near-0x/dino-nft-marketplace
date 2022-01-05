@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\HATEL\Desktop\Prof\near\nft-marketplace\contract\target\wasm32-unknown-unknown\debug\build\typenum-aaf2306a478f4725\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\HATEL\Desktop\Prof\near\nft-marketplace\contract\target\wasm32-unknown-unknown\debug\build\typenum-aaf2306a478f4725\out\op.rs
